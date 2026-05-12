@@ -9,6 +9,9 @@ function Skills() {
         <li>JavaScript</li>
         <li>MySQL</li>
         <li>React</li>
+        <li>NumPy</li>
+        <li>Pandas</li>
+        <li>MatPlotlib</li>
       </ul>
     </section>
   );
