@@ -7,12 +7,9 @@ function Projects() {
         <h3>A Secure And Anonymous issue Reporting Framework For Academic Institutions</h3>
         <p>This project is a secure and anonymous issue reporting system built for academic institutions. It allows students to submit complaints without disclosing their identity, ensuring privacy and safety. The system includes features for complaint tracking, admin management, and efficient resolution of issues, making the communication process between students and authorities more transparent and effective</p>
 
-        <a 
-          href="https://github.com/sathya19-git/Anonymous-Issue-Reporting-Framework-Project" 
-          target="_blank"
-        >
-          View Code
-        </a>
+        <ahref="https://github.com/sathya19-git/Anonymous-Issue-Reporting-Framework-Project"
+  target="_blank"
+  rel="noopener noreferrer">
 
         <br />
 
